@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Model files (optional)
+*.h5
+*.keras
+
+# Large generated files (optional)
+*.mp4
+*.avi
+
+# Temporary files
+*.log
+*.tmp
+
+# MediaPipe cache (if generated)
+.cache/
+
+# Dataset exports (optional)
+output/
